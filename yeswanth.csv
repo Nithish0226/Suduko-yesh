@@ -1,0 +1,17 @@
+Country,X_Ray_Interventional,X_Ray_Fluoroscopy,X_Ray,X_Ray_Radiology_TOTAL,X_Ray,X_Ray_TOTAL
+Benin,0,0,0,12,0,12
+Burkina Faso,0,0,0,29,0,29
+Burundi,0,0,0,0,0,0
+Ghana,0,0,0,-11,0,-11
+Guinea,0,0,0,0,0,0
+Ivory Coast,0,CONF,CONF,947,CONF,"1,512"
+Liberia,0,0,0,0,0,0
+Mali,0,0,CONF,101,CONF,139
+Mauritania,0,0,0,0,0,0
+Niger,0,0,0,0,0,0
+Nigeria,706,CONF,CONF,917,448,"2,748"
+Senegal,266,CONF,"1,547",689,CONF,"2,962"
+Sierra Leone,0,0,0,0,0,0
+The Gambia,0,0,0,0,0,0
+Togo,0,0,0,0,0,0
+Western Africa TOTAL,972,754,"1,827","2,684","1,154","7,391"
